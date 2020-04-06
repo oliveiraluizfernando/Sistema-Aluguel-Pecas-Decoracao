@@ -1,4 +1,4 @@
-# Sistema Aluguel Pecas Decoração
+# Sistema Aluguel Peças Decoração
  
  Sistema não concluído. Ainda em desenvolvimento.
  
